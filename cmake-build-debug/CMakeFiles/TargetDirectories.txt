@@ -1,0 +1,5 @@
+/Users/devsog12/CLionProjects/Play/cmake-build-debug/CMakeFiles/mixed_precision_example1.dir
+/Users/devsog12/CLionProjects/Play/cmake-build-debug/CMakeFiles/mixed_precision_example0.dir
+/Users/devsog12/CLionProjects/Play/cmake-build-debug/CMakeFiles/modified_mixed_precision_example0.dir
+/Users/devsog12/CLionProjects/Play/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/devsog12/CLionProjects/Play/cmake-build-debug/CMakeFiles/rebuild_cache.dir
